@@ -14,6 +14,7 @@ public class ProductEncapsulation {
     public String getLabel() {
         return label;
     }
+
     public void setLabel(String label) {
         this.label = label;
     }
@@ -29,6 +30,7 @@ public class ProductEncapsulation {
     public double getStock() {
         return stock;
     }
+
     public void setStock(double stock) {
         this.stock = stock;
     }
